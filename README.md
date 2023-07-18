@@ -4,10 +4,10 @@ This Solidity program is a simple smart contract to create your own token. Once 
 
 It's a simple program based on four requirement:
 
-create your own token
-Only contract owner should be able to mint tokens
-Any user can transfer tokens
-Any user can burn tokens
+->create your own token
+->Only contract owner should be able to mint tokens
+->Any user can transfer tokens
+->Any user can burn tokens
 
 ## Description
 
