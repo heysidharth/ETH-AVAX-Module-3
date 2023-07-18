@@ -1,6 +1,13 @@
 # ETH-AVAX-Module-3
 
-This Solidity program is a simple smart contract to create your own token. Once you have your contract, you should be able to use remix to interact with it. From remix, the contract owner should be able to mint tokens to a provided address. Any user should be able to burn and transfer tokens.
+This Solidity program is a simple smart contract to create your own token. Once you have your contract, you should be able to use remix to interact with it. From remix, the contract owner should be able to mint tokens to a provided address. Any user should be able to burn and transfer tokens. 
+
+It's a simple program based on four requirement:
+
+create your own token
+Only contract owner should be able to mint tokens
+Any user can transfer tokens
+Any user can burn tokens
 
 ## Description
 
